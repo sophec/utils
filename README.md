@@ -1,4 +1,4 @@
-# Will Eccles' Utils
+# Sophie's Utils
 
 This is a collection of small utility programs I have written to make my daily
 life easier. You may or may not find any of them useful. This repository is
@@ -24,3 +24,4 @@ At this time, the following programs are included in this repository:
  - jedcrc:    Calculates the checksum of the transmission data in a JEDEC .jed
               file.
  - resdiv:    Calculates resistive divider values.
+ - respar:    Calculates equivalent resistance of parallel resistors
