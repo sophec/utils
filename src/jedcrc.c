@@ -1,6 +1,6 @@
 /*
  * jedcrc.c - Compute the checksum of the transmission data in a JEDEC .jed file
- * Author: Will Eccles
+ * Author: Sophie Eccles
  * Compile with -std=c89
  */
 

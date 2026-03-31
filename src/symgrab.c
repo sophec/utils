@@ -1,6 +1,6 @@
 /*
  * symgrab.c - load a symbol of a given type from an object file
- * Author: Will Eccles
+ * Author: Sophie Eccles
  * Compile with -std=c99
  * Link with -ldl
  */

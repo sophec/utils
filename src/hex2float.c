@@ -1,6 +1,6 @@
 /*
  * hex2float.c - convert hex values to floats
- * Author: Will Eccles
+ * Author: Sophie Eccles
  * Compile with -std=c89 -fno-strict-aliasing
  */
 

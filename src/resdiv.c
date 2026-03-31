@@ -1,6 +1,6 @@
 /*
  * resdiv.c - Compute resistive divider values
- * Author: Will Eccles
+ * Author: Sophie Eccles
  */
 
 #include <stdio.h>
